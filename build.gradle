@@ -9,7 +9,7 @@ java {
 }
 
 group 'org.mightypig.wurm.mediumanvil' // I don't think this does anything lol but you can fill it out
-version '0.1' // this very much does things, you should keep it up to date
+version '1.0' // this very much does things, you should keep it up to date
 
 repositories {
     mavenCentral()
